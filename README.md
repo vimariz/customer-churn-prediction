@@ -5,7 +5,7 @@ Memprediksi apakah pelanggan dari sebuah agensi pemasaran akan melakukan churn (
 ## Dataset
 
 - - `customer_churn.csv` -- data historis pelanggan dengan fitur: Name, Age, Total_Purchase, Account_Manager, Years, Num_Sites, Onboard_date, Location, Company, Churn
-- -`new_customers_1.csv` -- data pelanggan baru untuk diprediksi (tanpa label)
+- - `new_customers_1.csv` -- data pelanggan baru untuk diprediksi (tanpa label)
 
 ## Tech Stack
 
