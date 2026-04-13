@@ -16,7 +16,7 @@ Memprediksi apakah pelanggan dari sebuah agensi pemasaran akan melakukan churn (
 
 ## Results
 
-Model logistic regression kustom mencapai akurasi sebesar 88.9% pada data uji.
+Model regresi logistik kustom mencapai akurasi sebesar 88.9% pada data uji.
 
 ## How to Run
 
